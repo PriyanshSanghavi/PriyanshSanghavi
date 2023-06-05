@@ -15,17 +15,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshsanghavi" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165089-91185d3b-e0a6-480c-b9a0-61d94edf8b67.svg" alt="priyanshsanghavi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19862100" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165094-f0a383ab-116a-4359-9df8-b67c279be62a.svg" alt="19862100" height="30" width="40" /></a>
-<a href="https://medium.com/@priyansh-sanghavi" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165080-c62489cb-a5f0-4f2f-b1e3-5558bfb6bead.svg" alt="@priyansh-sanghavi" height="30" width="40" /></a>
-<a href="https://discord.gg/893469656428458025" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165095-e533d75e-5f34-40e7-bb40-6b7545af74fe.svg" alt="893469656428458025" height="30" width="40" /></a>
-<a href="https://twitter.com/priyansh__s" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243164652-ef603e4f-4710-4bf4-be53-2db778cbdcd3.svg" alt="priyansh__s" height="30" width="40" /></a>
-<a href="https://instagram.com/priyansh_sanghavi" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165092-d1873a96-bf82-4d03-b77d-208e3b94b966.svg" alt="priyansh_sanghavi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshsanghavi" target="_1blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165089-91185d3b-e0a6-480c-b9a0-61d94edf8b67.svg" alt="priyanshsanghavi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19862100" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165094-f0a383ab-116a-4359-9df8-b67c279be62a.svg" alt="19862100" height="30" width="40" /></a>
+<a href="https://medium.com/@priyansh-sanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165080-c62489cb-a5f0-4f2f-b1e3-5558bfb6bead.svg" alt="@priyansh-sanghavi" height="30" width="40" /></a>
+<a href="https://discord.gg/893469656428458025" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165095-e533d75e-5f34-40e7-bb40-6b7545af74fe.svg" alt="893469656428458025" height="30" width="40" /></a>
+<a href="https://twitter.com/priyansh__s" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243164652-ef603e4f-4710-4bf4-be53-2db778cbdcd3.svg" alt="priyansh__s" height="30" width="40" /></a>
+<a href="https://instagram.com/priyansh_sanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165092-d1873a96-bf82-4d03-b77d-208e3b94b966.svg" alt="priyansh_sanghavi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243169662-14d9fa63-88be-4c2d-a65d-0bc827fcb6fe.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243169662-14d9fa63-88be-4c2d-a65d-0bc827fcb6fe.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243169664-53c77b80-e7b8-49ad-a216-8a4e86ba4cfb.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243169649-35b67f8b-1997-44c8-b1f0-a547c4458abc.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243169674-6c09d810-6e77-45d5-9e8c-c6396b1da642.svg" alt="kotlin" width="40" height="40"/> </a>
