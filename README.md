@@ -3,19 +3,19 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/PriyanshSanghavi/PriyanshSanghavi/assets/64824381/333735e1-763a-4ed8-b4a6-7ac807ea4662.gif">
 
-- 👨‍💻 All of my projects are available at [**github**](https://github.com/PriyanshSanghavi?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/PriyanshSanghavi?tab=repositories" target="_blank"><b> github</b></a>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 📝 I regularly write blog on [**medium**](https://priyansh-sanghavi.medium.com/)
+- 📝 I regularly write blog on <a href="https://priyansh-sanghavi.medium.com/" target="_blank"><b> medium</b></a>
 
 - 📫 How to reach me **Priyansh4299@gmail.com**
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/10hCiB2Jf1dv7197n2W29R60BtaMt7dWX/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10hCiB2Jf1dv7197n2W29R60BtaMt7dWX/view?usp=sharing" target="_blank"><b> resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshsanghavi" target="_1blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165089-91185d3b-e0a6-480c-b9a0-61d94edf8b67.svg" alt="priyanshsanghavi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshsanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165089-91185d3b-e0a6-480c-b9a0-61d94edf8b67.svg" alt="priyanshsanghavi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19862100" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165094-f0a383ab-116a-4359-9df8-b67c279be62a.svg" alt="19862100" height="30" width="40" /></a>
 <a href="https://medium.com/@priyansh-sanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165080-c62489cb-a5f0-4f2f-b1e3-5558bfb6bead.svg" alt="@priyansh-sanghavi" height="30" width="40" /></a>
 <a href="https://discord.gg/893469656428458025" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165095-e533d75e-5f34-40e7-bb40-6b7545af74fe.svg" alt="893469656428458025" height="30" width="40" /></a>
