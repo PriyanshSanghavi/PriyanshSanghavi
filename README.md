@@ -51,3 +51,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshsanghavi&show_icons=true&locale=en" alt="priyanshsanghavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsanghavi&" alt="priyanshsanghavi" /></p>
+
+![](https://komarev.com/ghpvc/?username=PriyanshSanghavi)
