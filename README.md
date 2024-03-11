@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Priyansh4299@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10hCiB2Jf1dv7197n2W29R60BtaMt7dWX/view?usp=sharing" target="_blank"><b> resume</b></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HW5G2vh-686cpNolEpN4IEcrXC3Xvz3P/view?usp=sharing" target="_blank"><b> resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
