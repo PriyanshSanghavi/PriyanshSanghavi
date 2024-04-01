@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/19862100" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165094-f0a383ab-116a-4359-9df8-b67c279be62a.svg" alt="19862100" height="30" width="40" /></a>
 <a href="https://medium.com/@priyansh-sanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165080-c62489cb-a5f0-4f2f-b1e3-5558bfb6bead.svg" alt="@priyansh-sanghavi" height="30" width="40" /></a>
 <a href="https://discord.gg/893469656428458025" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165095-e533d75e-5f34-40e7-bb40-6b7545af74fe.svg" alt="893469656428458025" height="30" width="40" /></a>
-<a href="https://twitter.com/priyansh__s" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243164652-ef603e4f-4710-4bf4-be53-2db778cbdcd3.svg" alt="priyansh__s" height="30" width="40" /></a>
+<a href="https://twitter.com/priyansh__s" target="_blank"><img align="center" src="https://github.com/PriyanshSanghavi/PriyanshSanghavi/assets/64824381/12f28043-3120-4d13-a1ea-adbb4f4ace08" alt="priyansh__s" height="30" width="40" /></a>
 <a href="https://instagram.com/priyansh_sanghavi" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64824381/243165092-d1873a96-bf82-4d03-b77d-208e3b94b966.svg" alt="priyansh_sanghavi" height="30" width="40" /></a>
 </p>
 
